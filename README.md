@@ -1,3 +1,6 @@
+# TODO for Rahat
+Improve to a full fledged ollama model manager where we can pull models, delete models, open up terminal chat with a model and so on...
+
 # Ollama Tray
 
 An extension to start llms with ollama directly from gnome-shell.
